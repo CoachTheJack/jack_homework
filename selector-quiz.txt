@@ -1,0 +1,31 @@
+Answers:
+
+1) 5;
+
+2) 7, 8, 9, 10, 12;
+
+3) none;
+
+4) 6, 9, 10;
+
+5) none;
+
+6) 9, 10;
+
+7) 4, 5, 6, 7, 8, 9, 10, 11, 12;
+
+8) 7, 8;
+
+9) 12;
+
+10) none;
+
+
+P.S. I think there might be a mistake in your sample Q&A:
+
+Q: .classy
+A: 4, 9
+
+In my opinion the right answer should be:
+
+4, 5, 6, 7, 9, 10, 11, 12
