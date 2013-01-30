@@ -1,0 +1,29 @@
+#call-to-action {text-decoration: none;
+					font-size: 37px;
+					padding: 30px;
+					background: #414141;
+					color: #0ac6d7;
+					font-weight: bold;
+					font-family: 'Helvetica Neue', Helvetica, sans-serif
+					border: 2px;
+					border-radius: 10px;
+					box-shadow: 0 0 15px #0ac6d7;
+					cursor: pointer;
+				
+					
+					}
+
+
+#call-to-action:hover {
+
+	background-image: url(../../homework/button/button.jpg);
+										}				
+					
+.space {margin: 100px;
+
+					}
+
+.pink {color: #db64b2;}
+
+#call-to-action:active {background: #E5EFF1;}
+
