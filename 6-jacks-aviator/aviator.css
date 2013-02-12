@@ -1,0 +1,190 @@
+#outerWrapper {background-size: cover;
+	background-attachment: fixed;
+	background-image: url(http://aviator-demo.squarespace.com/assets/default-bg-image.jpg);
+	background-position: 0% 0%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: rgb(21, 23, 26);
+	display: block;
+	height: 1029.6875px;
+	letter-spacing: normal;
+	line-height: 22.390625px;
+	min-height: 100%;
+	min-width: 100%;
+	position: absolute;
+	text-transform: none;
+	width: 1252px;
+	z-index: 99;}
+
+/*wrapper*/
+
+#wrapper {background-color: rgba(0, 0, 0, 0.498039);
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	box-sizing: border-box;
+	color: rgb(21, 23, 26);
+	display: block;
+	height: 729.1875px;
+	left: 50%;
+	letter-spacing: normal;
+	line-height: 22.390625px;
+	margin-bottom: 112px;
+	margin-left: -253px;
+	margin-right: 0px;
+	margin-top: 20px;
+	opacity: 1;
+	padding-bottom: 60px;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 60px;
+	position: relative;
+	text-transform: none;
+	top: 0px;
+	width: 506px;}
+
+#wrapper h1 {color: #FBFBFB;
+    font-family: 'Voltaire',Georgia,serif;
+    font-size: 87px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 1em;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;}
+
+ #wrapper h2 {color: #FFD675;
+    font-family: Georgia,serif;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    margin-bottom: 40px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;}
+
+ .location {text-align: center;}
+
+ .location a {
+ 	text-decoration: none;
+ 	color: #ABB0B3;
+ 	text-transform: uppercase;
+ 	} 
+
+.location a:hover {
+ 	color: #FFD675;} 
+
+.phone {color: #ABB0B3;
+	text-transform: uppercase;
+	text-align: center;}
+
+
+.email {text-align: center;} 
+
+.email a {text-decoration: none;
+	color: #ABB0B3;
+	text-transform: uppercase;}
+
+.email a:hover {
+ 	color: #FFD675;} 
+
+.description {color: #FBFBFB;
+	text-align: center;}
+    
+.description a {text-decoration: none;
+	color: #ABB0B3;}
+
+.description a:hover {
+	color: #FFD675;}
+
+.description:before {
+    background-color: #FBFBFB;
+    content: "";
+    display: block;
+    height: 2px;
+    margin: 30px auto;
+    width: 80px;
+}
+
+/*navigation*/
+
+#main-navigation {
+    width: 30%;
+}
+
+#main-navigation ul {
+    margin: 30px 0 0 30px;
+    padding: 0;
+}
+
+#main-navigation ul li {
+    font-family: 'Source Sans Pro',Tahoma,Arial,sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 4px;
+    line-height: 1.25em;
+    list-style-type: none;
+    margin: 0.75em 0.5em 0.75em 0;
+    text-decoration: none;
+    text-transform: uppercase; }
+
+ #main-navigation a {text-decoration: none;}
+
+
+#main-navigation ul li a, #main-navigation ul li a:visited {
+    color: #FFFFFF;
+}
+
+#main-navigation ul li a:hover, #main-navigation ul li a:focus {
+    color: #FFD675;
+}
+
+#main-navigation ul li.active-link > a {
+    color: #FFD675;
+}
+#main-navigation ul li.active-folder .folder-parent > a {
+    color: #FFD675;
+}
+
+/*social*/
+
+
+.social {
+    padding: 30px 30px 0 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 20%;
+}
+
+.social ul {
+    margin: 0;
+    padding: 0;
+}
+.social ul li {
+    float: right;
+    list-style-type: none;
+    margin: 0 0 1em 1em;
+    text-align: right;
+}
+
+.social ul li a, .social ul li a:visited {
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 28px;
+    height: 28px;
+    width: 28px;
+}
+
+.social ul li a:hover {
+    background-color: #FFD675;
+}
+
+
