@@ -21,15 +21,15 @@ end
 
 
 #Prints the argument given four times
-def print4("nyc")
-	4.times do puts "nyc"
+def print4(nyc)
+	4.times do puts nyc
 
 	end
 
 #Prints an uppercase version of the argument given
-def printupcase ("live")
+def printupcase (live)
 
-	puts "live".upcase
+	puts live.upcase
 end
 
 #Object with two attributes and one method.
