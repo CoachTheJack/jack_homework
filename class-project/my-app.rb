@@ -5,7 +5,7 @@ require 'sinatra'
 
 get '/reverse/:word' do
 
-	reverse (params[:word])
+	reverse(params[:word])
 
 end
 
@@ -17,7 +17,7 @@ end
 
 get '/:fullname' do
 
-	countLength (params[:fullname])
+	countLength(params[:fullname])
 
 end
 
