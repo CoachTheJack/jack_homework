@@ -1,17 +1,16 @@
 require 'rubygems'
 require 'sinatra'
+require 'haml'
 
 #1
 
-get '/reverse/:word' do
-
-	reverse(params[:word])
-
+get '/' do
+	
+	haml :home
 end
 
-def reverse(word)
-	"The reverse of #{word} is #{word.reverse.upcase}"
-end
+
+
 
 #2
 
