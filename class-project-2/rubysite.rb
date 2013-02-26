@@ -5,12 +5,12 @@ require 'haml'
 
 get "/" do
 	
-haml :home
+	haml :home
 
 end
 
 get "/about" do
 	
-haml :about
+	haml :about
 
 end
